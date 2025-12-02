@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm ilias</h1>
 <h3 align="center" style="color:#FF0000">A passionate developer</h3>
 
-- I’m currently working on [making a Virtual Machine in C](https://github.com/iliasreg/vmi)
+- I’m currently working on [a raspberry homelab NAS](https://github.com/iliasreg/piNas)
 - I’m currently learning **VR and AR**
 - All of my projects are available at [https://iliasreg.vercel.app/](https://iliasreg.vercel.app/)
 - How to reach me **iliasreg18@gmail.com**
