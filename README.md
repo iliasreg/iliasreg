@@ -2,9 +2,8 @@
 <h1 align="center">Hi I'm ilias</h1>
 <h3 align="center" style="color:#FF0000">A passionate developer</h3>
 
-- I’m currently working on [a raspberry homelab NAS](https://github.com/iliasreg/piNas)
-- I’m currently learning **VR and AR**
-- All of my projects are available at [https://iliasreg.vercel.app/](https://iliasreg.vercel.app/)
+- I’m currently learning AWS 
+- All of my projects are available at [https://iliasreg.dev/](https://iliasreg.dev/)
 - How to reach me **iliasreg18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
