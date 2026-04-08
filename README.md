@@ -3,7 +3,7 @@ I'm currently an intern at IFREMER - French Institute for Ocean Science<br>I'm a
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2)](https://iliasreg.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2bf8ff)](https://iliasreg.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reguig-ilias) 
 
 # 💻 Tech Stack:
