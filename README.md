@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently an intern at IFREMER - French Institute for Ocean Science<br>I'm actively learning AWS<br>
+I'm currently an apprenticeship at IFREMER - French Institute for Ocean Science<br>I'm actively learning AWS<br>
 
 
 ## 🌐 Socials:
