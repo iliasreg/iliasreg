@@ -1,11 +1,84 @@
-# 💫 About Me:
-I'm currently an apprentice at IFREMER - French Institute for Ocean Science<br>I'm actively learning AWS<br>
+<div align="center">
 
+```text
+                              ▄▄▄▄▄▄▄
+                         ▄██████████████▄
+                    ▄▄████████████████████▄▄
+                 ▄████████████▀▀▀▀███████████▄
+              ▄███████████▀          ▀█████████▄
+          ▄▄████████████▀   ▄▄▄    ▄▄▄  ▀████████▄
+      ▄███████████████▀    ████   ████   █████████▄
+   ▄█████████████████      ▀██▀   ▀██▀    ██████████
+  ███████████████████           ▄          █████████
+  ▀██████████████████▄        ▄██▄        ▄████████▀
+     ▀█████████████████▄▄      ▀▀      ▄▄████████▀
+        ▀██████████████████▄▄▄▄▄▄▄▄▄██████████▀
+             ▀▀██████████████████████████▀▀
+                 ▄██▀▀██████████▀▀██▄
+              ▄██▀      ▀████▀      ▀██▄
+          ▄▄███▀      ▄▄██████▄▄      ▀███▄▄
+       ▄████▀       ▄████▀  ▀████▄       ▀████▄
+      ███▀         ████▀      ▀████         ▀███
+      ▀██▄▄       ▄███          ███▄       ▄▄██▀
+         ▀▀████████▀▀            ▀▀████████▀▀
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-2bf8ff)](https://iliasreg.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reguig-ilias) 
+              ════════  RUN FAST. BUILD CLEAN.  ════════
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+              code  ──>  test  ──>  ship  ──>  repeat
+```
 
+# Ilias Reguig
+
+`software engineering` · `data` · `systems`
+
+Engineering and data apprentice at **IFREMER**.
+
+I move between backend software, data engineering, cloud tooling, and embedded systems. I like small, understandable systems, direct experiments, and code that another person can run without a guided tour.
+
+[![Portfolio](https://img.shields.io/badge/iliasreg.dev-111827?style=flat-square&logo=firefox&logoColor=39d0d8)](https://iliasreg.dev)
+[![LinkedIn](https://img.shields.io/badge/reguig--ilias-111827?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/reguig-ilias)
+
+</div>
+
+---
+
+## `[01] current coordinates`
+
+```text
+location    -> Brest, France
+focus       -> Python · data engineering · model evaluation
+also into   -> backend systems · embedded development · homelabs
+learning    -> AWS · machine learning · production tooling
+```
+
+## `[02] selected work`
+
+| Project | What it is | Built with |
+|---|---|---|
+| [`ragops`](https://github.com/iliasreg/ragops) | A RAG-based diagnostic tool that analyzes AWS CloudWatch logs. | `Python` `AWS` `RAG` |
+| [`lbi`](https://github.com/iliasreg/lbi) | A compact weighted round-robin load balancer. | `Go` `Networking` |
+| [`vmi`](https://github.com/iliasreg/vmi) | A small stack-based virtual machine with its own instruction set. | `C` `Systems` |
+| [`can-bus-project`](https://github.com/iliasreg/can-bus-project) | Sensor acquisition from a CAN bus using an STM32 board and Python. | `STM32` `Python` `CAN` |
+| [`piNAS`](https://github.com/iliasreg/piNAS) | An ultra-low-power Raspberry Pi NAS with secure remote access. | `Linux` `Samba` `Tailscale` |
+| [`ilias-portfolio`](https://github.com/iliasreg/ilias-portfolio) | My Angular portfolio, deployed at [iliasreg.dev](https://iliasreg.dev). | `Angular` `TypeScript` |
+
+## `[03] toolbox`
+
+```text
+data      :: Python · Pandas · NumPy · Scikit-learn
+systems   :: C · C++ · Go · Linux · STM32 · Raspberry Pi
+web       :: TypeScript · Angular · React · Node.js
+infra     :: AWS · Docker · Kubernetes · GitHub Actions
+```
+
+## `[04] working principle`
+
+> **Make it clear. Test the important part. Keep moving.**
+>
+> I prefer working software over complicated explanations of future software.
+
+## `[05] links`
+
+- [iliasreg.dev](https://iliasreg.dev)
+- [LinkedIn](https://linkedin.com/in/reguig-ilias)
+- [GitHub](https://github.com/iliasreg)
