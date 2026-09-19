@@ -15,6 +15,10 @@ I work across software engineering and data, with a bias toward small systems, d
   <img alt="Embedded" src="https://img.shields.io/badge/EMBEDDED-a5a59f?style=flat-square&labelColor=a5a59f&color=a5a59f" />
 </p>
 
+<p align="center">
+  <img src="./assets/archive-cursor.svg" alt="Curiosity moving toward clarity" width="100%" />
+</p>
+
 ---
 
 ## `01 / SELECTED RECORDS`
@@ -62,6 +66,10 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 </tr>
 </table>
 
+<p align="center">
+  <img src="./assets/project-constellation.svg" alt="A signal moving through selected project nodes" width="100%" />
+</p>
+
 <details>
 <summary><strong>More selected work</strong></summary>
 <br>
@@ -91,6 +99,10 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/ma-breath.svg" alt="Precision and restraint balanced around ma" width="100%" />
+</p>
 
 ---
 

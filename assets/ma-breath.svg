@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" role="img" aria-labelledby="title desc">
+  <title id="title">Ma breathing divider</title>
+  <desc id="desc">Balanced lines breathe around the Japanese character for negative space.</desc>
+  <rect width="900" height="76" fill="#f1f0eb"/>
+  <g transform="translate(450 38)">
+    <g fill="none" stroke="#777773">
+      <path d="M-390 0H-42"><animate attributeName="d" values="M-390 0H-42;M-360 0H-58;M-390 0H-42" dur="5s" repeatCount="indefinite"/></path>
+      <path d="M42 0H390"><animate attributeName="d" values="M42 0H390;M58 0H360;M42 0H390" dur="5s" repeatCount="indefinite"/></path>
+    </g>
+    <circle r="25" fill="none" stroke="#171717" stroke-dasharray="2 6">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="17" fill="#171717"><animate attributeName="r" values="16;18;16" dur="5s" repeatCount="indefinite"/></circle>
+    <text y="6" fill="#f1f0eb" text-anchor="middle" font-family="serif" font-size="18">間</text>
+    <circle cx="-390" r="3" fill="#171717"/><circle cx="390" r="3" fill="#171717"/>
+  </g>
+  <text x="26" y="18" fill="#5f5f5b" font-family="monospace" font-size="8" letter-spacing="1.5">PRECISION</text>
+  <text x="874" y="18" fill="#5f5f5b" font-family="monospace" font-size="8" letter-spacing="1.5" text-anchor="end">RESTRAINT</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 58" role="img" aria-labelledby="title desc">
+  <title id="title">Archive cursor</title>
+  <desc id="desc">A small square travels along an editorial registration line.</desc>
+  <rect width="900" height="58" fill="#f1f0eb"/>
+  <path d="M26 29H874" fill="none" stroke="#aaa9a3" stroke-width="1"/>
+  <path d="M26 22V36M238 25V33M450 22V36M662 25V33M874 22V36" stroke="#777773"/>
+  <text x="26" y="14" fill="#5f5f5b" font-family="monospace" font-size="8" letter-spacing="1.5">INPUT / CURIOSITY</text>
+  <text x="874" y="14" fill="#5f5f5b" font-family="monospace" font-size="8" letter-spacing="1.5" text-anchor="end">OUTPUT / CLARITY</text>
+  <rect x="20" y="23" width="12" height="12" fill="#171717">
+    <animate attributeName="x" values="20;868;20" dur="9s" keyTimes="0;.5;1" calcMode="spline" keySplines=".42 0 .58 1;.42 0 .58 1" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="450" cy="29" r="3" fill="#f1f0eb" stroke="#171717">
+    <animate attributeName="r" values="3;6;3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
