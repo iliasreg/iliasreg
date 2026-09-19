@@ -1,84 +1,101 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" alt="Ilias Reguig — Built with intention" width="100%" />
+</p>
 
-```text
-                              ▄▄▄▄▄▄▄
-                         ▄██████████████▄
-                    ▄▄████████████████████▄▄
-                 ▄████████████▀▀▀▀███████████▄
-              ▄███████████▀          ▀█████████▄
-          ▄▄████████████▀   ▄▄▄    ▄▄▄  ▀████████▄
-      ▄███████████████▀    ████   ████   █████████▄
-   ▄█████████████████      ▀██▀   ▀██▀    ██████████
-  ███████████████████           ▄          █████████
-  ▀██████████████████▄        ▄██▄        ▄████████▀
-     ▀█████████████████▄▄      ▀▀      ▄▄████████▀
-        ▀██████████████████▄▄▄▄▄▄▄▄▄██████████▀
-             ▀▀██████████████████████████▀▀
-                 ▄██▀▀██████████▀▀██▄
-              ▄██▀      ▀████▀      ▀██▄
-          ▄▄███▀      ▄▄██████▄▄      ▀███▄▄
-       ▄████▀       ▄████▀  ▀████▄       ▀████▄
-      ███▀         ████▀      ▀████         ▀███
-      ▀██▄▄       ▄███          ███▄       ▄▄██▀
-         ▀▀████████▀▀            ▀▀████████▀▀
+## `00 / POSITION`
 
-              ════════  RUN FAST. BUILD CLEAN.  ════════
+### Software should explain itself.
 
-              code  ──>  test  ──>  ship  ──>  repeat
-```
+I work across software engineering and data, with a bias toward small systems, direct experiments, and code another person can run without a guided tour.
 
-# Ilias Reguig
-
-`software engineering` · `data` · `systems`
-
-Engineering and data apprentice at **IFREMER**.
-
-I move between backend software, data engineering, cloud tooling, and embedded systems. I like small, understandable systems, direct experiments, and code that another person can run without a guided tour.
-
-[![Portfolio](https://img.shields.io/badge/iliasreg.dev-111827?style=flat-square&logo=firefox&logoColor=39d0d8)](https://iliasreg.dev)
-[![LinkedIn](https://img.shields.io/badge/reguig--ilias-111827?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/reguig-ilias)
-
-</div>
+<p>
+  <img alt="Open to full-time roles" src="https://img.shields.io/badge/OPEN_TO_FULL--TIME_ROLES-171717?style=flat-square" />
+  <img alt="Backend and data" src="https://img.shields.io/badge/BACKEND_%26_DATA-4f4f4c?style=flat-square" />
+  <img alt="Cloud systems" src="https://img.shields.io/badge/CLOUD_SYSTEMS-777773?style=flat-square" />
+  <img alt="Embedded" src="https://img.shields.io/badge/EMBEDDED-a5a59f?style=flat-square&labelColor=a5a59f&color=a5a59f" />
+</p>
 
 ---
 
-## `[01] current coordinates`
+## `01 / SELECTED RECORDS`
 
-```text
-location    -> Brest, France
-focus       -> Python · data engineering · model evaluation
-also into   -> backend systems · embedded development · homelabs
-learning    -> AWS · machine learning · production tooling
-```
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `[02] selected work`
+<sub>01 / AI SYSTEMS</sub>
 
-| Project | What it is | Built with |
-|---|---|---|
-| [`ragops`](https://github.com/iliasreg/ragops) | A RAG-based diagnostic tool that analyzes AWS CloudWatch logs. | `Python` `AWS` `RAG` |
-| [`lbi`](https://github.com/iliasreg/lbi) | A compact weighted round-robin load balancer. | `Go` `Networking` |
-| [`vmi`](https://github.com/iliasreg/vmi) | A small stack-based virtual machine with its own instruction set. | `C` `Systems` |
-| [`can-bus-project`](https://github.com/iliasreg/can-bus-project) | Sensor acquisition from a CAN bus using an STM32 board and Python. | `STM32` `Python` `CAN` |
-| [`piNAS`](https://github.com/iliasreg/piNAS) | An ultra-low-power Raspberry Pi NAS with secure remote access. | `Linux` `Samba` `Tailscale` |
-| [`ilias-portfolio`](https://github.com/iliasreg/ilias-portfolio) | My Angular portfolio, deployed at [iliasreg.dev](https://iliasreg.dev). | `Angular` `TypeScript` |
+### [`ragops`](https://github.com/iliasreg/ragops) ↗
 
-## `[03] toolbox`
+A RAG-based diagnostic tool that analyzes AWS CloudWatch logs.
 
-```text
-data      :: Python · Pandas · NumPy · Scikit-learn
-systems   :: C · C++ · Go · Linux · STM32 · Raspberry Pi
-web       :: TypeScript · Angular · React · Node.js
-infra     :: AWS · Docker · Kubernetes · GitHub Actions
-```
+</td>
+<td width="50%" valign="top">
 
-## `[04] working principle`
+<sub>02 / LOW LEVEL</sub>
 
-> **Make it clear. Test the important part. Keep moving.**
+### [`vmi`](https://github.com/iliasreg/vmi) ↗
+
+A compact stack-based virtual machine with its own instruction set.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<sub>03 / NETWORKING</sub>
+
+### [`lbi`](https://github.com/iliasreg/lbi) ↗
+
+Weighted round-robin load balancing, implemented in Go and kept intentionally small.
+
+</td>
+<td width="50%" valign="top">
+
+<sub>04 / HARDWARE</sub>
+
+### [`piNAS`](https://github.com/iliasreg/piNAS) ↗
+
+An ultra-low-power Raspberry Pi NAS with secure remote access.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><strong>More selected work</strong></summary>
+<br>
+
+- [`can-bus-project`](https://github.com/iliasreg/can-bus-project) — sensor acquisition from a CAN bus using STM32 and Python.
+- [`ilias-portfolio`](https://github.com/iliasreg/ilias-portfolio) — the Angular portfolio and visual identity behind this profile.
+
+</details>
+
+---
+
+## `02 / WORKING PRINCIPLE`
+
+<table>
+<tr>
+<td width="18%" align="center" valign="middle">
+
+# 間
+
+</td>
+<td valign="middle">
+
+> ### *Make it clear. Test the important part. Keep moving.*
 >
-> I prefer working software over complicated explanations of future software.
+> <sub>WORKING SOFTWARE OVER COMPLICATED PROMISES.</sub>
 
-## `[05] links`
+</td>
+</tr>
+</table>
 
-- [iliasreg.dev](https://iliasreg.dev)
-- [LinkedIn](https://linkedin.com/in/reguig-ilias)
-- [GitHub](https://github.com/iliasreg)
+---
+
+## `03 / LINKS`
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-171717?style=flat-square)](https://iliasreg.dev)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-4f4f4c?style=flat-square)](https://linkedin.com/in/reguig-ilias)
+[![Email](https://img.shields.io/badge/EMAIL-777773?style=flat-square)](mailto:iliasreg18@gmail.com)

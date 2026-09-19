@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 410" role="img" aria-labelledby="title desc">
+  <title id="title">Ilias Reguig — Built with intention</title>
+  <desc id="desc">A warm monochrome editorial banner with an animated kinetic enso.</desc>
+  <defs>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#171717" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="410" fill="#f1f0eb"/>
+  <rect x=".5" y=".5" width="899" height="409" fill="url(#grid)" stroke="#cecdc7"/>
+
+  <text x="26" y="31" fill="#171717" font-family="monospace" font-size="9" letter-spacing="2">PROFILE ARCHIVE / 2026</text>
+  <text x="875" y="31" fill="#171717" font-family="serif" font-size="23" font-weight="600" text-anchor="end">静かな精度</text>
+
+  <text x="55" y="170" fill="#171717" font-family="Georgia,serif" font-size="82" letter-spacing="-5">Built with</text>
+  <text x="112" y="237" fill="#f1f0eb" stroke="#171717" stroke-width="1.2" paint-order="stroke" font-family="Georgia,serif" font-size="82" font-style="italic" letter-spacing="-5">intention.</text>
+
+  <text x="62" y="341" fill="#171717" font-family="monospace" font-size="10">
+    <tspan x="62" dy="0">I turn complicated systems into clear software: research tooling,</tspan>
+    <tspan x="62" dy="17">backend infrastructure and interfaces designed to outlast the first demo.</tspan>
+  </text>
+
+  <g transform="translate(692 202)">
+    <circle r="148" fill="none" stroke="#9b9b96" stroke-width="1" stroke-dasharray="3 10"/>
+    <g>
+      <circle r="109" fill="none" stroke="#171717" stroke-width="39" stroke-linecap="round" stroke-dasharray="578 105" transform="rotate(-28)"/>
+      <circle r="82" fill="none" stroke="#171717" stroke-width="2" stroke-dasharray="245 39 12 25" opacity=".68"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </g>
+    <circle r="32" fill="#171717"/>
+    <text y="9" fill="#f1f0eb" text-anchor="middle" font-family="serif" font-size="26">間</text>
+    <g>
+      <line y1="-148" y2="-123" stroke="#171717"/>
+      <circle cy="-148" r="6" fill="#171717"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="10s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <text x="876" y="386" fill="#6b6b67" font-family="monospace" font-size="8" text-anchor="end" letter-spacing="1.5">STUDY 02 / EDITORIAL SYSTEMS</text>
+</svg>
