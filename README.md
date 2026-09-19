@@ -87,7 +87,7 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 <tr>
 <td width="18%" align="center" valign="middle">
 
-# 間
+# ○
 
 </td>
 <td valign="middle">
@@ -101,7 +101,7 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 </table>
 
 <p align="center">
-  <img src="./assets/ma-breath.svg" alt="Precision and restraint balanced around ma" width="100%" />
+  <img src="./assets/ma-breath.svg" alt="Precision and restraint balanced around a quiet center" width="100%" />
 </p>
 
 ---

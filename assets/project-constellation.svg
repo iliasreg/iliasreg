@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 94" role="img" aria-labelledby="title desc">
   <title id="title">Project constellation</title>
   <desc id="desc">Four project nodes connected by a moving signal.</desc>
-  <rect width="900" height="94" fill="#f1f0eb"/>
   <g fill="none" stroke="#9b9b96" stroke-width="1">
     <path id="route" d="M42 60L245 28L450 60L655 28L858 60"/>
     <path d="M42 74H858" stroke-dasharray="2 7" opacity=".55"/>
