@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Ilias Reguig — Built with intention" width="100%" />
+  <img src="./assets/profile-header.svg" alt="Ilias Reguig — Built with intention" width="50%" />
 </p>
 
 ## `00 / POSITION`
