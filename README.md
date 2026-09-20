@@ -1,4 +1,4 @@
-<p align="center">
+<p style="text-align: left;">
   <img src="./assets/profile-header.svg" alt="Ilias Reguig — Built with intention" width="50%" />
 </p>
 
