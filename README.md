@@ -1,8 +1,4 @@
-<p style="text-align: left;">
-  <img src="./assets/profile-header.svg" alt="Ilias Reguig — Built with intention" width="25%" />
-</p>
-
-## `00 / POSITION`
+## `POSITION`
 
 ### Software should explain itself.
 
@@ -21,7 +17,7 @@ I work across software engineering and data, with a bias toward small systems, d
 
 ---
 
-## `01 / SELECTED RECORDS`
+## `SELECTED RECORDS`
 
 <table>
 <tr>
@@ -81,7 +77,7 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 
 ---
 
-## `02 / WORKING PRINCIPLE`
+## `WORKING PRINCIPLE`
 
 <table>
 <tr>
@@ -106,7 +102,7 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 
 ---
 
-## `03 / LINKS`
+## `LINKS`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-171717?style=flat-square)](https://iliasreg.dev)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-4f4f4c?style=flat-square)](https://linkedin.com/in/reguig-ilias)
