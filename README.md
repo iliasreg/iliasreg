@@ -1,14 +1,12 @@
 ## `POSITION`
 
-### Software should explain itself.
-
 I work across software engineering and data, with a bias toward small systems, direct experiments, and code another person can run without a guided tour.
 
 <p>
   <img alt="Open to full-time roles" src="https://img.shields.io/badge/OPEN_TO_FULL--TIME_ROLES-171717?style=flat-square" />
   <img alt="Backend and data" src="https://img.shields.io/badge/BACKEND_%26_DATA-4f4f4c?style=flat-square" />
   <img alt="Cloud systems" src="https://img.shields.io/badge/CLOUD_SYSTEMS-777773?style=flat-square" />
-  <img alt="Embedded" src="https://img.shields.io/badge/EMBEDDED-a5a59f?style=flat-square&labelColor=a5a59f&color=a5a59f" />
+  <img alt="Devops" src="https://img.shields.io/badge/DEVOPS-a5a59f?style=flat-square&labelColor=a5a59f&color=a5a59f" />
 </p>
 
 <p align="center">
@@ -77,30 +75,6 @@ An ultra-low-power Raspberry Pi NAS with secure remote access.
 
 ---
 
-## `WORKING PRINCIPLE`
-
-<table>
-<tr>
-<td width="18%" align="center" valign="middle">
-
-# ○
-
-</td>
-<td valign="middle">
-
-> ### *Make it clear. Test the important part. Keep moving.*
->
-> <sub>WORKING SOFTWARE OVER COMPLICATED PROMISES.</sub>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="./assets/ma-breath.svg" alt="Precision and restraint balanced around a quiet center" width="100%" />
-</p>
-
----
 
 ## `LINKS`
 
